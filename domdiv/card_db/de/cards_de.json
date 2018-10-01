@@ -1703,453 +1703,453 @@
         "name": "Geheimgang"
     },
     "Bad Omens": {
-        "description": "Put your deck into your discard pile. Look through it and put 2 Coppers from it onto your deck (or reveal you can't.)",
+        "description": "Lege deinen Nachziehstapel auf deinen Ablagestapel. Sieh den Ablagestapel durch und lege 2 Kupfer daraus auf den Nachziehstapel (oder zeige vor, dass du das nicht kannst).",
         "extra": "Normally you will end up with a deck consisting of two Coppers, and a discard pile with the rest of your cards. Sometimes you will only have one or no Coppers; in those cases reveal your deck to demonstrate this.",
-        "name": "Bad Omens",
+        "name": "Schlechtes Omen",
         "untranslated": "description, extra, name"
     },
     "Bard": {
-        "description": "+2 Coins<br>Recieve a Boon.",
+        "description": "+2 Coins<br>Empfange eine Gabe.",
         "extra": "You get +2 Coins and receive a Boon.",
-        "name": "Bard",
+        "name": "Minnesängerin",
         "untranslated": "description, extra, name"
     },
     "Bat": {
-        "description": "Trash up to 2 cards from your hand. If you trashed at least one, exchange this for a Vampire.<br><br><i>(This is not in the Supply.)</i>",
+        "description": "Entsorge bis zu 2 Handkarten. Wenn du mindestens 1 Karte entsorgt hast, tausche diese Karte in eine Vampirin ein.<br><br><i>(Diese Karte gehört nicht zum Vorrat.)</i>",
         "extra": "The Vampire is put into your discard pile. If there are no Vampires in their pile, you cannot exchange Bat for one, but can still trash cards.",
-        "name": "Bat",
+        "name": "Fledermaus",
         "untranslated": "description, extra, name"
     },
     "Blessed Village": {
-        "description": "+1 Card<br>+2 Actions<line>When you gain this, take a Boon. Receive it now or at the start of your next turn.",
+        "description": "+1 Karte<br>+2 Aktionen<line>Wenn du diese Karte nimmst, erhalte eine Gabe. Empfange sie jetzt oder zu Beginn deines nächsten Zuges.",
         "extra": "You see the Boon before deciding to resolve it immediately or at the start of your next turn. If you save it for next turn, it sits in front of you until then (or until the end of that turn if it says to keep it out until Clean-up).",
-        "name": "Blessed Village",
+        "name": "Seliges Dorf",
         "untranslated": "description, extra, name"
     },
     "Cemetery": {
-        "description": "2 <*VP*><line>When you gain this, trash up to 4 cards from your hand.<br><br><i>Heirloom: Haunted Mirror</i>",
+        "description": "2 <*VP*><line>Wenn du diese Karte nimmst, entsorge bis zu 4 Handkarten.<br><br><i>Erbstück: Zauberspiegel</i>",
         "extra": "In games using this, replace one of your starting Coppers with a Haunted Mirror. When you gain a Cemetery, trash from zero to four cards from your hand.",
-        "name": "Cemetery",
+        "name": "Friedhof",
         "untranslated": "description, extra, name"
     },
     "Changeling": {
-        "description": "Trash this. Gain a copy of a card you have in play.<line>In games using this, when you gain a card costing 3 Coins or more, you may exchange it for a Changeling.",
+        "description": "Trash this. Gain a copy of a card you have in play.<line>In Spielen mit dieser Karte: Wenn du eine Karte nimmst, die 3 Coins oder mehr kostet, darfst du sie in einen Wechselbalg eintauschen.",
         "extra": "When Changeling is in the Supply, any time you gain a card costing at least 3 Coins, you may exchange it for a Changeling from the Supply. You can only do this if you can actually return the card you gained, and there is at least one Changeling in the Supply. The Changeling goes to your discard pile, no matter where the gained card went. Things that happen due to gaining the gained card still happen. So for example you could gain Skulk, exchange it for a Changeling (returning Skulk to the Supply and putting Changeling into your discard pile), and still gain a Gold from Skulk's ability. Exchanging for a Changeling is optional. You cannot do it if the gained card costs less than 3 Coins, even if it normally costs 3 Coins or more, and you cannot do it if the cost is neither more or less than 3 Coins (such as Transmute from Alchemy). When you play Changeling, you trash it and gain a copy of a card you have in play; that can be any card you have in play, including Actions, Treasures, and Night cards, and including Duration cards you played on a previous turn that are still in play.",
-        "name": "Changeling",
+        "name": "Wechselbalg",
         "untranslated": "description, extra, name"
     },
     "Cobbler": {
-        "description": "At the start of your next turn, gain a card to hand costing up to 4 Coins.",
+        "description": "Nimm zu Beginn deines nächsten Zuges eine Karte auf die Hand, die bis zu 4 Coins kostet.",
         "extra": "If you gain a Nomad Camp (from Hinterlands) with this, it goes to your hand.",
-        "name": "Cobbler",
+        "name": "Schuster",
         "untranslated": "description, extra, name"
     },
     "Conclave": {
-        "description": "+2 Coins<n>You may play an Action card from your hand that you don’t have a copy of in play. If you do, +1 Action.",
+        "description": "+2 Coins<n>Du darfst eine Aktionskarte aus der Hand ausspielen, von der du keine gleiche im Spiel hast. Wenn du das tust: +1 Aktion.",
         "extra": " When you play this, you can play an Action card from your hand, provided that you do not have a copy of that card in play. It does not matter if you played the Action card this turn, only that it is not in play when you play Conclave; you can use Conclave to play a card that you played but trashed and so do not have in play, like a Pixie you trashed, but cannot use it to play a card you did not play this turn that is still in play, such as a Secret Cave from your previous turn. Conclave normally cannot play a Conclave, as that is a card you have in play. If you do play a card with Conclave, then Conclave gives you +1 Action, which has no special limitations, and so can for example be used to play another Conclave.",
-        "name": "Conclave",
+        "name": "Konklave",
         "untranslated": "description, extra, name"
     },
     "Crypt": {
-        "description": "Set aside any number of Treasures you have in play, face down (under this). While any remain, at the start of each of your turns, put one of them into your hand.",
+        "description": "Lege beliebig viele Geldkarten, die du im Spiel hast, verdeckt zur Seite (unter diese Karte). Solange sich dort Karten befinden: Nimm zu Beginn deiner nächsten Züge jeweils 1 davon auf die Hand.",
         "extra": "For example if you set aside three Treasures, then at the start of each of your next three turns you will put one of them into your hand, and at the end of the last of those turns you will discard Crypt from play. The Treasures are facedown; you can look at them at any time, but other players may not.",
-        "name": "Crypt",
+        "name": "Krypta",
         "untranslated": "description, extra, name"
     },
     "Cursed Gold": {
-        "description": "3 <*COIN*><br><br>When you play this, gain a Curse.",
+        "description": "3 <*COIN*><br><br>Wenn du diese Karte ausspielst, nimm einen Fluch.",
         "extra": "You can choose not to play Cursed Gold, and thus not gain a Curse.",
-        "name": "Cursed Gold",
+        "name": "Verfluchtes Gold",
         "untranslated": "description, extra, name"
     },
     "Cursed Village": {
-        "description": "+2 Actions<br>Draw until you have 6 cards in hand.<line>When you gain this, receive a Hex.",
+        "description": "+2 Aktionen<br>Ziehe, bis du 6 Karten auf der Hand hast.<line>Wenn du diese Karte nimmst, empfange eine Plage.",
         "extra": " If you already have six or more cards in hand, you do not draw any cards. When you gain Cursed Village, you receive a Hex; since that will often be in your Buy phase, some of the Hexes may not do anything to you. Shuffle the Hexes before receiving the Hex.",
-        "name": "Cursed Village",
+        "name": "Verfluchtes Dorf",
         "untranslated": "description, extra, name"
     },
     "Delusion": {
-        "description": "If you don't have Deluded or Envious, take Deluded.",
+        "description": "Wenn du weder Getäuscht noch Neidisch hast, erhalte Getäuscht.",
         "extra": "",
-        "name": "Delusion",
+        "name": "Täuschung",
         "untranslated": "description, extra, name"
     },
     "Den of Sin": {
-        "description": "At the start of your next turn,<n>+2 Cards.<line>This is gained to your hand (instead of your discard pile).",
+        "description": "Zu Beginn deines nächsten Zuges:<n>+2 Karten.<line>Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel).",
         "extra": "Since Night is after the Buy phase, normally you can play this the turn you buy it.",
-        "name": "Den of Sin",
+        "name": "Sündenpfuhl",
         "untranslated": "description, extra, name"
     },
     "Devil's Workshop": {
-        "description": "If the number of cards you've gained this turn is:<br>2+, gain an Imp from its pile;<br>1, gain a card costing up to 4 Coin;<br>0, gain a Gold.",
+        "description": "Ist die Anzahl der Karten, die du in diesem Zug genommen hast:<br>2 oder mehr: Nimm ein Teufelchen vom Teufelchen-Stapel;<br>1: Nimm eine Karte, die bis zu 4 Coin kostet;<br>0: Nimm ein Gold.",
         "extra": "This counts all cards you have gained this turn, including cards gained at Night prior to playing it. You cannot choose a different benefit; if you have gained two or more cards, you have to gain an Imp, you cannot take a card costing up to 4 Coins or a Gold instead. Normally, bought cards are then gained, but cards exchanged for (such as Vampire exchanging for Bat) are not gained.<br><br>Setup: Put the Imp pile near the Supply.",
-        "name": "Devil's Workshop",
+        "name": "Teufelswerkstatt",
         "untranslated": "description, extra, name"
     },
     "Druid": {
-        "description": "+1 Buy<br>Receive one of the set aside Boons (leaving it there).<line>Setup: Set aside the top 3 Boons, face-up.",
+        "description": "+1 Kauf<br>Empfange eine der zur Seite gelegten Gaben (lasse sie dort liegen).<line>Spielvorbereitung: Lege die obersten 3 Gaben aufgedeckt zur Seite.",
         "extra": "At the start of the game, deal out three Boons face up for Druid. If there are other Fate cards in the same game, those Fate cards will not produce those Boons that game; the deck will consist of the other nine Boons. When you play Druid, you choose one of its three Boons to receive, and leave it there in the setaside area for Druid, even if it is one of the Boons that says to keep it until Cleanup (e.g. The Field's Gift).",
-        "name": "Druid",
+        "name": "Druidin",
         "untranslated": "description, extra, name"
     },
     "Envious - Deluded": {
-        "description": "This is a double-sided card.<left><u>Envious</u>:</left><center>At the start of your Buy phase, return this, and Silver and Gold make 1 Coin this turn.</center><left><u>Deluded</u>:</left><center>At the start of your Buy phase, return this, and you can’t buy Actions this turn.</center>",
+        "description": "This is a double-sided card.<left><u>Envious</u>:</left><center>Lege diesen Zustand zu Beginn deiner Kaufphase zurück; Silber und Gold sind in diesem Zug 1 Coin wert.</center><left><u>Getäuscht</u>:</left><center>Lege diesen Zustand zu Beginn deiner Kaufphase zurück; du darfst in diesem Zug keine Aktionskarten kaufen.</center>",
         "extra": "Envious: This causes Silver and Gold to make 1 Coin when you played in your Buy phase for one turn, rather than their usual 2 Coins and 3 Coins, starting in the Buy phase. It does not affect other Treasures, just Silver and Gold. If you get Envious during your turn before the Buy phase (such as with Leprechaun), it will apply that turn; normally it will apply to your next turn.\n\nDeluded: This prevents you from buying Action cards during one turn, starting in the Buy phase. If you get Deluded during your turn before the Buy phase (such as with Leprechaun), it will apply that turn; normally it will apply to your next turn.",
-        "name": "Envious / Deluded",
+        "name": "Neidisch / Getäuscht",
         "untranslated": "description, extra, name"
     },
     "Envy": {
-        "description": "If you don't have Deluded or Envious, take Envious.",
+        "description": "Wenn du weder Getäuscht noch Neidisch hast, erhalte Neidisch.",
         "extra": "Deluded / Envious is two-sided; take it with the Envious side face up.",
-        "name": "Envy",
+        "name": "Neid",
         "untranslated": "description, extra, name"
     },
     "Exorcist": {
-        "description": "Trash a card from your hand. Gain a cheaper Spirit from one of the Spirit Piles.",
+        "description": "Entsorge eine Handkarte. Nimm eine Erscheinung, die weniger kostet als die entsorgte Karte, von einem der Erscheinungs-Stapel.",
         "extra": " The Spirits are Will-o'-Wisp, Imp, and Ghost. If for example you trash a Silver, you can gain a Will-o'-Wisp or Imp, as those both cost less than Silver.<br><br>Setup: Put all three Spirit piles - Will-o'-Wisp, Imp, and Ghost - near the Supply.",
-        "name": "Exorcist",
+        "name": "Exorzistin",
         "untranslated": "description, extra, name"
     },
     "Faithful Hound": {
-        "description": "+2 Cards<line>When you discard this other than during Clean-up, you may set it aside, and put it into your hand at end of turn.",
+        "description": "+2 Karten<line>Wenn du diese Karte außerhalb der Aufräumphase ablegst, darfst du sie zur Seite legen und sie am Ende des Zuges auf die Hand nehmen.",
         "extra": "'End of turn' is after drawing in Clean-up. The Reaction ability can happen on your turn and on other players' turns; if for example you discard Faithful Hound to another player's Raider, you can set it aside and return it to your hand at the end of that turn. Faithful Hound does not have to be in your hand for the ability to work; for example you can set it aside when it is discarded from your deck due to Night Watchman. The ability does not work if Faithful Hound is put into your discard pile without being discarded; for example nothing special happens when you gain Faithful Hound, or put your deck into your discard pile with Scavenger (from Dark Ages). The ability does not do anything during Clean-up. Setting Faithful Hound aside is optional. You cannot choose to discard Faithful Hound without something telling you to discard.",
-        "name": "Faithful Hound",
+        "name": "Getreuer Hund",
         "untranslated": "description, extra, name"
     },
     "Famine": {
-        "description": "Reveal the top 3 cards of your deck. Discard the Actions. Shuffle the rest into your deck.",
+        "description": "Decke die obersten 3 Karten deines Nachziehstapels auf. Lege alle Aktionskarten ab und mische den Rest in den Nachziehstapel.",
         "extra": "The revealed cards that are not Actions are shuffled back into your deck.",
-        "name": "Famine",
+        "name": "Hungersnot",
         "untranslated": "description, extra, name"
     },
     "Fear": {
-        "description": "If you have at least 5 cards in hand, discard an Action or Treasure (or reveal you can't.)",
+        "description": "Wenn du mindestens 5 Handkarten hast, lege eine Aktions- oder Geldkarte ab (oder zeige vor, dass du das nicht kannst).",
         "extra": "You discard an Action or Treasure if you have either, and only reveal your hand if you have no Actions and no Treasures.",
-        "name": "Fear",
+        "name": "Furcht",
         "untranslated": "description, extra, name"
     },
     "Fool": {
-        "description": "If you aren’t the player with Lost in the Woods, take it, take 3 Boons, and receive the Boons in any order.<br><br><i>Heirloom: Lucky Coin</i>",
+        "description": "Wenn du nicht Im Wald verirrt hast, erhalte es, erhalte 3 Gaben und empfange sie in beliebiger Reihenfolge.<br><br><i>Erbstück: Glückstaler</i>",
         "extra": "If you have Lost in the Woods, playing Fool does nothing. If you do not have Lost in the Woods, you take it - even from another player, if another player has it - and also take 3 Boons and receive them in the order you choose (discarding them when receiving them, or in Clean-up as appropriate). You do not need to pick the full order in advance - pick one to resolve, then after resolving it pick another to resolve. The player with Lost in the Woods (if any) can optionally discard a card to receive a Boon, at the start of each of their turns. In games using Fool, replace one of your starting Coppers with a Lucky Coin.",
-        "name": "Fool",
+        "name": "Narr",
         "untranslated": "description, extra, name"
     },
     "Ghost": {
-        "description": "Reveal cards from your deck until you reveal an Action. Discard the other cards and set aside the Action. At the start of your next turn, play it twice.<br><br><i>(This is not in the Supply.)</i>",
+        "description": "Decke Karten von deinem Nachziehstapel auf, bis du eine Aktionskarte aufdeckst. Lege die restlichen Karten ab und die Aktionskarte zur Seite. Spiele sie zu Beginn deines nächsten Zuges zweimal aus.<br><br><i>(Diese Karte gehört nicht zum Vorrat.)</i>",
         "extra": "If you run out of cards before revealing an Action, shuffle your discard pile but not the revealed cards, and continue. If you still do not find an Action, just discard everything and do not do anything else. If you find an Action card, you discard the other cards, set the Action card aside, and play it twice at the start of your next turn. This is not optional. If you have multiple start-of-turn effects, you can put them in any order, but when you resolve Ghost, you play the Action twice then; you cannot resolve other effects in the middle. You play the Action card, resolving it completely, then play it a second time. Playing the card does not use up Action plays for the turn. If Ghost plays a Duration card, Ghost will stay out with the Duration card. If Ghost plays a card that trashes itself, it will play it a second time even though the card is no longer in play. If Ghost fails to play a card, it will be discarded from play that turn.",
-        "name": "Ghost",
+        "name": "Geist",
         "untranslated": "description, extra, name"
     },
     "Ghost Town": {
-        "description": "At the start of your next turn,<br>+1 Card and +1 Action.<line>This is gained to your hand (instead of your discard pile).",
+        "description": "Zu Beginn deines nächsten Zuges:<br>+1 Karte und +1 Aktion.<line>Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel).",
         "extra": "Since Night is after the Buy phase, normally you can play this the turn you buy it.",
-        "name": "Ghost Town",
+        "name": "Geisterstadt",
         "untranslated": "description, extra, name"
     },
     "Goat": {
-        "description": "1 <*COIN*><br><br>When you play this, you may trash a card from your hand.",
+        "description": "1 <*COIN*><br><br>Wenn du diese Karte ausspielst, darfst du eine Handkarte entsorgen.",
         "extra": "Trashing a card is optional.",
-        "name": "Goat",
+        "name": "Ziege",
         "untranslated": "description, extra, name"
     },
     "Greed": {
-        "description": "Gain a Copper onto your deck.",
+        "description": "Nimm ein Kupfer und lege es auf deinen Nachziehstapel.",
         "extra": "",
-        "name": "Greed",
+        "name": "Gier",
         "untranslated": "description, extra, name"
     },
     "Guardian": {
-        "description": "Until your next turn, when another player plays an Attack card, it doesn’t affect you. At the start of your next turn, +1 Coin.<line>This is gained to your hand (instead of your discard pile).",
+        "description": "Bis zu deinem nächsten Zug: Wenn ein anderer Spieler eine Angriffskarte ausspielt, betrifft sie dich nicht. Zu Beginn deines nächsten Zuges: +1 Coin.<line>Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel).",
         "extra": "Since Night is after the Buy phase, normally you can play this the turn you buy it. When you play Guardian, you are unaffected by Attack cards other players play between then and your next turn (even if you want one to affect you). Guardian does not prevent you from using Reactions when other players play Attacks.",
-        "name": "Guardian",
+        "name": "Wächterin",
         "untranslated": "description, extra, name"
     },
     "Haunted Mirror": {
-        "description": "1 <*COIN*><line>When you trash this, you may discard an Action card, to gain a Ghost from its pile.",
+        "description": "1 <*COIN*><line>Wenn du diese Karte entsorgst, darfst du eine Aktionskarte ablegen. Wenn du das tust: Nimm einen Geist vom Geist-Stapel.",
         "extra": "Haunted Mirror does not give you a way to trash it, but does something if you find a way to.",
-        "name": "Haunted Mirror",
+        "name": "Zauberspiegel",
         "untranslated": "description, extra, name"
     },
     "Haunting": {
-        "description": "If you have at least 4 cards in hand, put one of them onto your deck.",
+        "description": "Wenn du mindestens 4 Handkarten hast, lege eine davon auf deinen Nachziehstapel.",
         "extra": "",
-        "name": "Haunting",
+        "name": "Spuk",
         "untranslated": "description, extra, name"
     },
     "Idol": {
-        "description": "2 <*COIN*><br>When you play this, if you then have an odd number of Idols in play, receive a Boon; if an even number, each other player gains a Curse.",
+        "description": "2 <*COIN*><br>Wenn du diese Karte ausspielst und du eine ungerade Anzahl Götzen im Spiel hast, empfange eine Gabe; wenn du eine gerade Anzahl Götzen im Spiel hast, nimmt jeder Mitspieler einen Fluch.",
         "extra": "Idol cares how many Idols you have in play, not how many you have played this turn; some cards can make those numbers different (e.g. Counterfeit from Dark Ages). If you have one Idol in play, you receive a Boon, if two, the other players gain a Curse, if three, you receive a Boon, and so on.",
-        "name": "Idol",
+        "name": "Götze",
         "untranslated": "description, extra, name"
     },
     "Imp": {
-        "description": "+2 Cards<br>You may play an Action card from your hand that you don’t have a copy of in play.<br><br><i>(This is not in the supply).</i>",
+        "description": "+2 Karten<br>Du darfst eine Aktionskarte aus der Hand ausspielen, von der du keine gleiche im Spiel hast.<br><br><i>(Diese Karte gehört nicht zum Vorrat.)</i>",
         "extra": "After drawing two cards, you can play an Action card from your hand, provided that you do not have a copy of that card in play. It does not matter if you played the Action card this turn, only that it is not in play when you play Imp; you can use Imp to play a card that you played but trashed and so do not have in play, like a Pixie you trashed, but cannot use it to play a card you did not play this turn that is still in play, such as a Secret Cave from your previous turn. Imp normally cannot play an Imp as that is a card you have in play.",
-        "name": "Imp",
+        "name": "Teufelchen",
         "untranslated": "description, extra, name"
     },
     "Leprechaun": {
-        "description": "Gain a Gold. If you have exactly 7 cards in play, gain a Wish from its pile. Otherwise, receive a Hex.",
+        "description": "Nimm ein Gold. Wenn du genau 7 Karten im Spiel hast, nimm einen Wunsch vom Wunsch-Stapel. Ansonsten empfange eine Plage.",
         "extra": "Cards you have in play normally include Leprechaun itself, other cards you have played this turn, and sometimes Duration cards from previous turns. Cards that were in play but no longer are - e.g. a Pixie you trashed - do not count.",
-        "name": "Leprechaun",
+        "name": "Kobold",
         "untranslated": "description, extra, name"
     },
     "Locusts": {
-        "description": "Trash the top card of your deck. If it's Copper or Estate, gain a Curse. Otherwise, gain a cheaper card that shares a type with it.",
+        "description": "Entsorge die oberste Karte deines Nachziehstapels. Ist es ein Kupfer oder Anwesen, nimm einen Fluch. Ansonsten: Nimm eine Karte, die weniger kostet und die mit der entsorgten Karte mindestens 1 Kartentyp gemeinsam hat.",
         "extra": "Types are the words on the bottom banner, like Action and Attack. If there is no cheaper card that shares a type - for example if the card trashed is Curse - the player does not gain anything.",
-        "name": "Locusts",
+        "name": "Heuschrecken",
         "untranslated": "description, extra, name"
     },
     "Lost in the Woods": {
-        "description": "At the start of your turn, you may discard a card to receive a Boon.",
+        "description": "Du darfst zu Beginn deines Zuges eine Handkarte ablegen. Wenn du das tust: Empfange eine Gabe.",
         "extra": "The two sides are the same; use either. Using the ability is optional. Lost in the Woods stays in front of you turn after turn, until another players takes it with a Fool.",
-        "name": "Lost in the Woods",
+        "name": "Im Wald verirrt",
         "untranslated": "description, extra, name"
     },
     "Lucky Coin": {
-        "description": "1 <*COIN*><br><br>When you play this, gain a Silver.",
+        "description": "1 <*COIN*><br><br>Wenn du diese Karte ausspielst, nimm ein Silber.",
         "extra": "You can choose not to play Lucky Coin, and thus not gain a Silver.",
-        "name": "Lucky Coin",
+        "name": "Glückstaler",
         "untranslated": "description, extra, name"
     },
     "Magic Lamp": {
-        "description": "1 <*COIN*><br><br>When you play this, if there are at least 6 cards that you have exactly 1 copy of in play, trash this. If you do, gain 3 Wishes from their pile.",
+        "description": "1 <*COIN*><br><br>Wenn du diese Karte ausspielst und du mindestens 6 verschiedene Karten genau einmal im Spiel hast, entsorge diese Karte. Wenn du das tust: Nimm 3 Wünsche vom Wunsch-Stapel.",
         "extra": "Magic Lamp itself counts as one of the six cards. A card you have two or more copies of in play does not count; you have to have exactly one copy in play to count a card. You can play more Treasures after trashing Magic Lamp, and still got 1 Coin from it for that turn.",
-        "name": "Magic Lamp",
+        "name": "Wunderlampe",
         "untranslated": "description, extra, name"
     },
     "Miserable - Twice Miserable": {
-        "description": "This is a double-sided card.<left><u>Miserable</u>:</left><center>-2<*VP*></center><left><u>Twice Miserable</u>:</left><center>-4<*VP*></center>",
+        "description": "This is a double-sided card.<left><u>Elendig</u>:</left><center>-2<*VP*></center><left><u>Doppelt Elendig</u>:</left><center>-4<*VP*></center>",
         "extra": "Miserable: When scoring at the end of the game, you lose 2<VP> . This does nothing until then, it just sits in front of you.\nTwice Miserable: When scoring at the end of the game, you lose 4<VP> . This does nothing until then, it just sits in front of you.",
-        "name": "Miserable / Twice Miserable",
+        "name": "Elendig / Doppelt Elendig",
         "untranslated": "description, extra, name"
     },
     "Misery": {
-        "description": "If this is your first Misery this game, take Miserable.<br>Otherwise, flip it over to Twice Miserable.",
+        "description": "Wenn dies dein erstes Elend in diesem Spiel ist, erhalte Elendig.<br>Ansonsten drehe Elendig auf Doppelt Elendig um.",
         "extra": "If this hits you for a third time in a game, nothing will happen; you stay at Twice Miserable.",
-        "name": "Misery",
+        "name": "Elend",
         "untranslated": "description, extra, name"
     },
     "Monastery": {
-        "description": "For each card you’ve gained this turn, you may trash a card from your hand or a Copper you have in play.",
+        "description": "Pro Karte, die du in diesem Zug genommen hast, darfst du ein Kupfer, das du im Spiel hast, oder eine Handkarte entsorgen.",
         "extra": "For example if you have gained three cards, you may trash up to three cards, with each being either a card from your hand or a Copper you have in play, in any combination. Normally, bought cards are then gained, but cards exchanged for (such as Vampire exchanging for Bat) are not gained.",
-        "name": "Monastery",
+        "name": "Kloster",
         "untranslated": "description, extra, name"
     },
     "Necromancer": {
-        "description": "Play a face-up, non-Duration Action card from the trash, leaving it there and turning it face down for the turn.<line>Setup: Put the 3 Zombies into the trash.",
+        "description": "Spiele eine Aktionskarte, die mit der Vorderseite nach oben im Müll liegt und keine Dauerkarte ist, lasse sie dort und drehe sie für diesen Zug mit der Bildseite nach unten.<line>Spielvorbereitung: Legt die 3 Zombies in den Müll.",
         "extra": "Setup:  Put the three Zombies into the trash.<br><br>This plays a non-Duration Action card from the trash. Normally it can at least play one of the three Zombies, since they start the game in the trash. It can play other Action cards that make their way into the trash too. The played cards are turned over, to track that each can only be used once per turn this way; at end of turn, turn them back face up. Necromancer can play another Necromancer, though normally that will not be useful. The Action card stays in the trash; if an effect tries to move it, such as Encampment (from Empires) returning to the Supply, it will fail to move it. Necromancer can be used on a card that trashes itself when played; if the card checks to see if it was trashed (such as Pixie), it was not, but if the card does not check (such as Tragic Hero), it will function normally. Since the played card is not in play, 'while this is in play' abilities (such as Tracker's) will not do anything.",
-        "name": "Necromancer",
+        "name": "Totenbeschwörer",
         "untranslated": "description, extra, name"
     },
     "Night Watchman": {
-        "description": "Look at the top 5 cards of your deck, discard any number, and put the rest back in any order.<line>This is gained to your hand (instead of your discard pile).",
+        "description": "Sieh die obersten 5 Karten deines Nachziehstapels an, lege beliebig viele davon ab und den Rest in beliebiger Reihenfolge zurück auf den Nachziehstapel.<line>Diese Karte wird auf die Hand genommen (anstatt auf den Ablagestapel).",
         "extra": "Since Night is after the Buy phase, normally you can play this the turn you buy it.",
-        "name": "Night Watchman",
+        "name": "Nachtwache",
         "untranslated": "description, extra, name"
     },
     "Pasture": {
-        "description": "1 <*COIN*><br><line><br>Worth 1<VP> per Estate you have.",
+        "description": "1 <*COIN*><br><line><br>Wert 1<VP> pro Anwesen im eigenen Kartensatz.",
         "extra": "For example if you have three Estates, then Pasture is worth 3<VP>.",
-        "name": "Pasture",
+        "name": "Weideland",
         "untranslated": "description, extra, name"
     },
     "Pixie": {
-        "description": "+1 Card<br>+1 Action<br>Discard the top Boon. You may trash this to receive that Boon twice.<br><br><i>Heirloom: Goat</i>",
+        "description": "+1 Karte<br>+1 Aktion<br>Lege die oberste Gabe ab. Du darfst diese Karte entsorgen, um die abgelegte Gabe zweimal zu empfangen.<br><br><i>Erbstück: Ziege</i>",
         "extra": "If you receive a Boon that says to keep it until Clean-up, move it to in front of you, and remember that you get it twice. In games using Pixie, replace one of your starting Coppers with a Goat.",
-        "name": "Pixie",
+        "name": "Fee",
         "untranslated": "description, extra, name"
     },
     "Plague": {
-        "description": "Gain a Curse to your hand.",
+        "description": "Nimm einen Fluch auf die Hand.",
         "extra": "",
-        "name": "Plague",
+        "name": "Seuche",
         "untranslated": "description, extra, name"
     },
     "Pooka": {
-        "description": "You may trash a Treasure other than Cursed Gold from your hand for +4 Cards.<br><br><i>Heirloom: Cursed Gold</i>",
+        "description": "Du darfst eine Geldkarte aus deiner Hand, außer Verfluchtes Gold, entsorgen. Wenn du das tust: + 4 Karten.<br><br><i>Erbstück: Verfluchtes Gold</i>",
         "extra": "In games using Pooka, replace one of your starting Coppers with a Cursed Gold.",
         "name": "Pooka",
         "untranslated": "description, extra, name"
     },
     "Pouch": {
-        "description": "1 <*COIN*><br><br>+1 Buy",
+        "description": "1 <*COIN*><br><br>+1 Kauf",
         "extra": "This simply gives you 1 Coin and +1 Buy when you play it.",
-        "name": "Pouch",
+        "name": "Beutel",
         "untranslated": "description, extra, name"
     },
     "Poverty": {
-        "description": "Discard down to 3 cards in hand.",
+        "description": "Lege Karten ab, bis du nur noch 3 Handkarten hast.",
         "extra": "",
-        "name": "Poverty",
+        "name": "Armut",
         "untranslated": "description, extra, name"
     },
     "Raider": {
-        "description": "Each other player with 5 or more cards in hand discards a copy of a card you have in play (or reveals they can’t).<br>At the start of your next turn, +3 Coins.",
+        "description": "Jeder Mitspieler mit 5 oder mehr Handkarten legt eine Karte ab, von der du bereits eine gleiche im Spiel hast (oder zeigt vor, dass er das nicht kann).<br>Zu Beginn deines nächsten Zuges: +3 Coins.",
         "extra": "For example if your cards in play are 3 Coppers, a Silver, and a Raider, then each other player with at least 5 cards in hand has to discard a Copper, Silver, or Raider, or reveal their hand to show that they did not have any of those cards.",
-        "name": "Raider",
+        "name": "Plünderer",
         "untranslated": "description, extra, name"
     },
     "Sacred Grove": {
-        "description": "+1 Buy<br>+3 Coins<br>Receive a Boon. If it doesn’t give +1 Coins, each other player may receive it.",
+        "description": "+1 Kauf<br>+3 Coins<br>Empfange eine Gabe. Wenn diese nicht +1 Coins gibt, darf jeder Mitspieler sie auch empfangen.",
         "extra": "You have to receive the Boon; the other players can choose to receive it. The Field's Gift and The Forest's Gift are not shared. The River's Gift means that each player choosing to receive it draws a card at the end of your turn, at the same time as you.",
-        "name": "Sacred Grove",
+        "name": "Heiliger Hain",
         "untranslated": "description, extra, name"
     },
     "Secret Cave": {
-        "description": "+1 Card<br>+1 Action<br>You may discard 3 cards. If you did, then at the start of your next turn, +3 Coin.<br><br><i>Heirloom: Magic Lamp</i>",
+        "description": "+1 Karte<br>+1 Aktion<br>Du darfst 3 Handkarten ablehnen. Wenn du das tust, zu Beginn deines nächsten Zuges: +3 Coin.<br><br><i>Erbstück: Wunderlampe</i>",
         "extra": "If you do not discard three cards, Secret Cave is discarded from play at end of turn. If you do discard three cards, Secret Cave stays out until the Cleanup of your next turn, and you get +3 Coins at the start of that turn. You can choose to discard three cards even with fewer cards in hand, and will discard your remaining cards, but will not get the bonus. In games using Secret Cave, replace one of your starting Coppers with a Magic Lamp.",
-        "name": "Secret Cave",
+        "name": "Geheime Höhle",
         "untranslated": "description, extra, name"
     },
     "Shepherd": {
-        "description": "+1 Action<br>Discard any number of Victory cards, revealing them.<br>+2 Cards per card discarded.<br><br><i>Heirloom: Pasture</i>",
+        "description": "+1 Aktion<br>Lege beliebig viele Punktekarten aus der Hand ab, decke sie dabei auf.<br>+2 Karten pro abgelegter Karte.<br><br><i>Erbstück: Weideland</i>",
         "extra": "For example, you could discard three Victory cards to draw six cards.<br>In games using Shepherd, replace one of your starting Coppers with a Pasture.",
-        "name": "Shepherd",
+        "name": "Schäferin",
         "untranslated": "description, extra, name"
     },
     "Skulk": {
-        "description": "+1 Buy<br>Each other player receives the next Hex.<line>When you gain this, gain a Gold.",
+        "description": "+1 Kauf<br>Jeder Mitspieler empfängt die nächste Plage.<line>Wenn du diese Karte nimmst, nimm ein Gold.",
         "extra": "You gain the Gold whether you gained Skulk due to buying it, or gained it some other way.",
-        "name": "Skulk",
+        "name": "Attentäter",
         "untranslated": "description, extra, name"
     },
     "The Earth's Gift": {
-        "description": "You may discard a Treasure to gain a card costing up to 4 Coin.",
+        "description": "Du darfst eine Geldkarte aus der Hand ablegen. Wenn du das tust: Nimm eine Karte, die bis zu 4 Coin kostet.",
         "extra": "",
-        "name": "The Earth's Gift",
+        "name": "Geschenk der Erde",
         "untranslated": "description, extra, name"
     },
     "The Field's Gift": {
-        "description": "+1 Action<br>+1 Coin<br>(Keep this until Clean-up.)",
+        "description": "+1 Aktion<br>+1 Coin<br>(Bewahre diese Gabe bis zur Aufräumphase auf.)",
         "extra": "",
-        "name": "The Field's Gift",
+        "name": "Geschenk des Feldes",
         "untranslated": "description, extra, name"
     },
     "The Flame's Gift": {
-        "description": "You may trash a card from your hand.",
+        "description": "Du darfst eine Handkarte entsorgen.",
         "extra": "",
-        "name": "The Flame's Gift",
+        "name": "Geschenk des Feuers",
         "untranslated": "description, extra, name"
     },
     "The Forest's Gift": {
-        "description": "+1 Buy<br>+1 Coin<br>(Keep this until Clean-up.)",
+        "description": "+1 Kauf<br>+1 Coin<br>(Bewahre diese Gabe bis zur Aufräumphase auf.)",
         "extra": "",
-        "name": "The Forest's Gift",
+        "name": "Geschenk des Waldes",
         "untranslated": "description, extra, name"
     },
     "The Moon's Gift": {
-        "description": "Look through your discard pile.<br>You may put a card from it onto your deck.",
+        "description": "Sieh deinen Ablagestapel durch. Du darfst eine Karte daraus auf deinen Nachziehstapel legen.",
         "extra": "If your discard pile is empty, this will not do anything.",
-        "name": "The Moon's Gift",
+        "name": "Geschenk des Mondes",
         "untranslated": "description, extra, name"
     },
     "The Mountain's Gift": {
-        "description": "Gain a Silver.",
+        "description": "Nimm ein Silber.",
         "extra": "",
-        "name": "The Mountain's Gift",
+        "name": "Geschenk des Berges",
         "untranslated": "description, extra, name"
     },
     "The River's Gift.": {
-        "description": "+1 Card at the end of this turn.<br>(Keep this until Clean-up.)",
+        "description": "+1 Karte am Ende dieses Zuges.<br>(Bewahre diese Gabe bis zur Aufräumphase auf.)",
         "extra": "You draw the card after drawing your hand for your next turn.",
-        "name": "The River's Gift.",
+        "name": "Geschenk des Flusses",
         "untranslated": "description, extra, name"
     },
     "The Sea's Gift": {
-        "description": "+1 Card",
+        "description": "+1 Karte",
         "extra": "",
-        "name": "The Sea's Gift",
+        "name": "Geschenk des Meeres",
         "untranslated": "description, extra, name"
     },
     "The Sky's Gift": {
-        "description": "You may discard 3 cards to gain a Gold.",
+        "description": "Du darfst 3 Handkarten ablegen. Wenn du das tust: Nimm ein Gold.",
         "extra": "If you choose to do this with fewer than three cards in hand, you will discard the rest of your cards but not gain a Gold. Discarding three cards gets you one Gold, not three.",
-        "name": "The Sky's Gift",
+        "name": "Geschenk des Himmels",
         "untranslated": "description, extra, name"
     },
     "The Sun's Gift": {
-        "description": "Look at the top 4 cards of your deck.<br>Discard any number of them and put the rest back in any order.",
+        "description": "Sieh die obersten 4 Karten deines Nachziehstapels an. Lege beliebig viele davon ab und den Rest in beliebiger Reihenfolge zurück auf den Nachziehstapel.",
         "extra": "",
-        "name": "The Sun's Gift",
+        "name": "Geschenk der Sonne",
         "untranslated": "description, extra, name"
     },
     "The Swamp's Gift": {
-        "description": "Gain a Will-O'-Wisp from its pile.",
+        "description": "Nimm ein Irrlicht vom Irrlicht-Stapel.",
         "extra": "",
-        "name": "The Swamp's Gift",
+        "name": "Geschenk des Sumpfes",
         "untranslated": "description, extra, name"
     },
     "The Wind's Gift": {
-        "description": "+2 Cards<br>Discard 2 cards.",
+        "description": "+2 Karten<br>Lege 2 Handkarten ab.",
         "extra": "",
-        "name": "The Wind's Gift",
+        "name": "Geschenk des Windes",
         "untranslated": "description, extra, name"
     },
     "Tormentor": {
-        "description": "+2 Coins<n>If you have no other cards in play, gain an Imp from its pile. Otherwise, each other player receives the next Hex.",
+        "description": "+2 Coins<n>Wenn du keine anderen Karten im Spiel hast, nimm ein Teufelchen vom Teufelchen-Stapel. Ansonsten empfängt jeder Mitspieler die nächste Plage.",
         "extra": "Setup: Put the Imp pile near the Supply.<br><br>Cards in play from previous turns are still cards in play; cards you played this turn but which are no longer in play (such as a Pixie you trashed) are not in play.",
-        "name": "Tormentor",
+        "name": "Folterknecht",
         "untranslated": "description, extra, name"
     },
     "Tracker": {
-        "description": "+1 Coin<br>Receive a Boon.<line>While this is in play, when you gain a card, you may put that card onto your deck.<br><br><i>Heirloom: Pouch</i>",
+        "description": "+1 Coin<br>Empfange eine Gabe.<line>Wenn diese Karte im Spiel ist und du eine Karte nimmst, darfst du die genommene Karte auf deinen Nachziehstapel legen.<br><br><i>Erbstück: Beutel</i>",
         "extra": "If you gain multiple cards with this in play, this applies to each of them - you could put any or all of them on top of your deck. This applies both to cards gained due to being bought, and to cards gained other ways with Tracker in play. Tracker is in play when you resolve its Boon, so if the Boon causes you to gain a card, for example a Silver from The Mountain's Gift, you can put that card onto your deck. In games using Tracker, replace one of your starting Coppers with a Pouch.",
-        "name": "Tracker",
+        "name": "Fährtensucher",
         "untranslated": "description, extra, name"
     },
     "Tragic Hero": {
-        "description": "+3 Cards<br>+1 Buy<br>If you have 8 or more cards in hand (after drawing), trash this and gain a Treasure.",
+        "description": "+3 Karten<br>+1 Kauf<br>Wenn du (nach dem Ziehen) 8 oder mehr Handkarten hast, entsorge diese Karte und nimm eine Geldkarte.",
         "extra": "First draw three cards; then, if you have eight or more cards in hand, you trash Tragic Hero and gain a Treasure. If you cannot trash Tragic Hero (for example if you play it twice with Throne Room and trashed it the first time), you still gain the Treasure.",
-        "name": "Tragic Hero",
+        "name": "Tragischer Held",
         "untranslated": "description, extra, name"
     },
     "Vampire": {
-        "description": "Each other player receives the next Hex.<br>Gain a card costing up to 5 Coin other than a Vampire.<br>Exchange this for a Bat.",
+        "description": "Jeder Mitspieler empfängt die nächste Plage. Nimm eine Karte, außer einer Vampirin, die bis zu 5 Coin kostet.<br>Tausche diese Karte (die Vampirin) in eine Fledermaus ein.",
         "extra": "Follow the instructions in order. If the Bat pile is empty, you will be unable to exchange Vampire for a Bat, but will do the rest. The Bat is put into your discard pile.",
-        "name": "Vampire",
+        "name": "Vampirin",
         "untranslated": "description, extra, name"
     },
     "War": {
-        "description": "Reveal cards from your deck until revealing one costing 3 Coin or 4 Coin. Trash it and discard the rest.",
+        "description": "Decke Karten von deinem Nachziehstapel auf, bis du eine Karte aufdeckst, die 3 Coin oder 4 Coin kostet. Entsorge sie und lege den Rest ab.",
         "extra": "If you do not find a card costing 3 Coins or 4 Coins, your entire deck will end up in your discard pile, with nothing trashed.",
-        "name": "War",
+        "name": "Krieg",
         "untranslated": "description, extra, name"
     },
     "Werewolf": {
-        "description": "If it’s your Night phase, each other player receives the next Hex.<br>Otherwise, +3 Cards.",
+        "description": "Wenn es deine Nachtphase ist, empfängt jeder Mitspieler die nächste Plage.<br>Ansonsten: +3 Karten.",
         "extra": "Werewolf can be played in either your Action phase or Night phase. If played in your Action phase, you draw three cards; if played at Night, each other player receives the next Hex.",
-        "name": "Werewolf",
+        "name": "Werwolf",
         "untranslated": "description, extra, name"
     },
     "Will-O'-Wisp": {
-        "description": "+1 Card<br>+1 Action<br>Reveal the top card of your deck. If it costs 2 Coin or less, put it into your hand.<br><br><i>(This is not in the Supply.)</i>",
+        "description": "+1 Karte<br>+1 Aktion<br>Decke die oberste Karte deines Nachziehstapels auf. Wenn sie 2 Coin oder weniger kostet, nimm sie auf die Hand.<br><br><i>(Diese Karte gehört nicht zum Vorrat.)</i>",
         "extra": " If the revealed card does not cost 2 Coins or less, leave it on your deck. Cards with Potion or Debt  in the cost (from Alchemy and Empires) do not cost 2 Coins or less.",
-        "name": "Will-O'-Wisp",
+        "name": "Irrlicht",
         "untranslated": "description, extra, name"
     },
     "Wish": {
-        "description": "+1 Action<br>Return this to its pile. If you did, gain a card to your hand costing up to 6 coin.<br><br><i>(This is not in the Supply.)</i>",
+        "description": "+1 Aktion<br>Lege diese Karte zurück auf ihren Stapel. Wenn du das getan hast, nimm eine Karte auf die Hand, die bis zu 6 coin kostet.<br><br><i>(Diese Karte gehört nicht zum Vorrat.)</i>",
         "extra": " You only gain a card if you actually returned Wish to its pile. A card you gain that would normally go somewhere else, like Nomad Camp (from Hinterlands), goes to your hand.",
-        "name": "Wish",
+        "name": "Wunsch",
         "untranslated": "description, extra, name"
     },
     "Zombie Apprentice": {
-        "description": "You may trash an Action card from your hand for +3 Cards and +1 Action.",
+        "description": "u darfst eine Aktionskarte aus der Hand entsorgen. Wenn du das tust: +3 Karten und +1 Aktion.",
         "extra": "If you trash an Action card from your hand, you draw three cards and get +1 Action.",
-        "name": "Zombie Apprentice",
+        "name": "Zombie-Lehrling",
         "untranslated": "description, extra, name"
     },
     "Zombie Mason": {
-        "description": "Trash the top card of your deck. You may gain a card costing up to 1 Coin more than it.",
+        "description": "Entsorge die oberste Karte deines Nachziehstapels. Du darfst eine Karte nehmen, die bis zu 1 Coin mehr kostet als die entsorgte Karte.",
         "extra": "Gaining a card is optional. You can gain a card costing more than the trashed card, or any amount less; for example you can gain a copy of the trashed card.",
-        "name": "Zombie Mason",
+        "name": "Zombie-Maurer",
         "untranslated": "description, extra, name"
     },
     "Zombie Spy": {
-        "description": "+1 Card<br>+1 Action<br>Look at the top card of your deck. Discard it or put it back.",
+        "description": "+1 Karte<br>+1 Aktion<br>Sieh die oberste Karte deines Nachziehstapels an. Lege sie ab oder zurück auf den Nachziehstapel.",
         "extra": "You draw a card before looking at the top card. The Zombie Spy is like a regular Spy except it can only discard the top card of your own deck.",
-        "name": "Zombie Spy",
+        "name": "Zombie-Spion",
         "untranslated": "description, extra, name"
     },
     "Avanto": {
